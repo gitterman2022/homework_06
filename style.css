@@ -5,8 +5,21 @@
     box-sizing: border-box;
 }
 /* styling global button */
-.btn{   
+.cbtn{
+    border-radius: 30px;
+    font-weight: 500;
+    color: #000;
 }
-/* styling section */
-.{
+.cbtn:hover{
+    background: #000;
+    color: #fff;
+}
+.carousel-item img{
+    height: 90vh !important;
+}
+.tcard{
+    border-radius: 30px;
+}
+.bcard{
+    border-radius: 0 0 30px 30px;
 }
