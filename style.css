@@ -17,6 +17,10 @@
 .carousel-item img{
     height: 90vh !important;
 }
+.image{
+    height: 400px;
+    width: 400px;
+}
 .tcard{
     border-radius: 30px;
 }
